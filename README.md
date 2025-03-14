@@ -1,2 +1,2 @@
 >Hi i am varshanraj
->,I am interested in programming and hacking
+>,I am interested in programming and technologies
